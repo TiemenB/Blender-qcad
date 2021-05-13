@@ -18,3 +18,10 @@ The drawing should appear on the plane that was selected.
 You can select the new added drawings and press the to 3Dmesh.
 Now the lines become mesh objects, you can use them for boolean operations.
 
+know issues:
+
+-Sometimes the drawing is nog places on the plane but under it. The direction is good but not the location.
+It is not hard to move it to the right place, I am trying to solve this problem.
+-It is better in qcat to flatten the drawing first (misc/modify/flatten drawing to 2d)
+If you dont do this the offset doesn't work right and everything is not on the same plane.
+
