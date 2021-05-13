@@ -12,6 +12,8 @@ This file is going to contain de DXF information.
 The 'Schaal', scale can be changed to get the right unities in Qcad.
 100 if you want ot work in cm, 1000 for mm.
 
+Ather the file is imported it is immediately converted to a mesh, the 'resolutie' determines the density of points.
+
 Now go to edit mode and select a plane, then press DXF export. Go to Qcad and open the file.
 Now you can see the plane in qcad. Now you can use qcad to draw.
 The best way is to make a new layer first, and draw in the new layer.
