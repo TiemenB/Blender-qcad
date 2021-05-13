@@ -2,6 +2,8 @@
 
 
 The addon is made for blender to make it more easy to draw with precision.
+I use Qcad to design, I have tried Librecad as well, it works too. I don't know how it works with autocat or other cad programs.
+
 First the DXF export and import addons in blender have to be installed(they are shipped with blender)
 
 When you have installed the addon in the sidebar menu (n) you can fined a menu with the possibility to select a file.
