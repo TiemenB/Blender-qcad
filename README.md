@@ -22,6 +22,7 @@ know issues:
 
 -Sometimes the drawing is nog places on the plane but under it. The direction is good but not the location.
 It is not hard to move it to the right place, I am trying to solve this problem.
+
 -It is better in qcat to flatten the drawing first (misc/modify/flatten drawing to 2d)
 If you dont do this the offset doesn't work right and everything is not on the same plane.
 
