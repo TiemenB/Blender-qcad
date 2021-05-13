@@ -11,6 +11,7 @@ This file is going to contain de DXF information.
 
 The 'Schaal', scale can be changed to get the right unities in Qcad.
 100 if you want ot work in cm, 1000 for mm.
+
 Now go to edit mode and select a plane, then press DXF export. Go to Qcad and open the file.
 Now you can see the plane in qcad. Now you can use qcad to draw.
 The best way is to make a new layer first, and draw in the new layer.
