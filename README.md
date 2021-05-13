@@ -16,7 +16,7 @@ Ather the file is imported it is immediately converted to a mesh, the 'resolutie
 
 Now go to edit mode and select a plane, then press DXF export. Go to Qcad and open the file.
 Now you can see the plane in qcad. Now you can use qcad to draw.
-The best way is to make a new layer first, and draw in the new layer.
+It is better to start on a new layer to draw on, this makes it easier later on to convert the drawing to 3D.
 When you are ready you can save the file and go back to Blender.
 In blender press on the DXF import.
 The drawing should appear on the plane that was selected.
