@@ -24,5 +24,5 @@ know issues:
 It is not hard to move it to the right place, I am trying to solve this problem.
 
 -It is better in qcat to flatten the drawing first (misc/modify/flatten drawing to 2d)
-If you dont do this the offset doesn't work right and everything is not on the same plane.
+If you dont do this the offset doesn't work right and everything is not on the same plane when imported in blender.
 
